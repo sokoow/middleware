@@ -1,3 +1,4 @@
+THIS IS A SAMPLE CHANGE
 <br /><br />
 <p align="center">
 <a href="https://www.middlewarehq.com/"><img src="https://github.com/middlewarehq/middleware/blob/main/media_files/logo.png" alt="Middleware Logo" width=300px></a>
